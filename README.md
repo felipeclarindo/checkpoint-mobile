@@ -1,8 +1,8 @@
 🌍 [Read in English](README.md)
 
-# Checkpoint
+# Checkpoint Mobile
 
-Aplicação para gerenciar a equipe desenvolvido com `.Net` using `C#`.
+Aplicação Mobile para o Checkpoint 1, usando `React Native` e `expo`.
 
 ## Técnologias Utilizadas
 
@@ -35,7 +35,8 @@ npm install
 ```bash
 npx expo start
 ```
-5. Apos inicia certifique-se do emulador aberto,  e clique "a" no terminal para abrir o projeto no emulador.
+
+5. Apos inicia certifique-se do emulador aberto, e clique `a` no terminal para abrir o projeto no emulador.
 
 ## Contribuição
 
